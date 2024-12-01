@@ -23,7 +23,10 @@
 - ln command
 - rm command
 - symlink command (ln -s)
+- mv command
 
-## string
+## status
+
+- stat command (similar ls -l)
 
 - test char string
